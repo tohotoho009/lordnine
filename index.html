@@ -295,6 +295,7 @@ table.band-tbl td.total{font-family:'Meiryo','メイリオ',sans-serif;color:var
     <button class="tab-btn active" onclick="switchTab('list',this)">ランキング</button>
     <button class="tab-btn" onclick="switchTab('server',this)">サーバー比較</button>
     <button class="tab-btn" onclick="switchTab('band',this)">戦闘力帯分布</button>
+    <button class="tab-btn" onclick="switchTab('guild',this)">ギルド別</button>
   </nav>
 </header>
 
@@ -364,6 +365,19 @@ table.band-tbl td.total{font-family:'Meiryo','メイリオ',sans-serif;color:var
     <div class="chart-inner" style="height:320px"><canvas id="bandChart"></canvas></div>
   </div>
   <div class="band-tbl-wrap"><table class="band-tbl" id="bandTable"></table></div>
+</div>
+
+<!-- ギルド別集計 -->
+<div id="tab-guild" class="tab-pane">
+  <div class="metrics-grid" id="guildMetrics"></div>
+  <div class="sec-head">人数上位ギルド（メンバー数 / 平均戦闘力）</div>
+  <div class="sv-bars" id="guildBars"></div>
+  <div class="chart-box">
+    <div class="sec-head" style="margin-bottom:10px">平均戦闘力 比較（人数上位15ギルド）</div>
+    <div class="chart-inner" style="height:300px"><canvas id="guildChart"></canvas></div>
+  </div>
+  <div class="sec-head">全ギルド一覧</div>
+  <div class="band-tbl-wrap"><table class="band-tbl" id="guildTable"></table></div>
 </div>
 
 <script>
@@ -551,6 +565,7 @@ function switchTab(id,btn){
   document.getElementById('tab-'+id).classList.add('active');
   if(id==='server'&&!window._sv){renderServer();window._sv=true;}
   if(id==='band'&&!window._bd){renderBand();window._bd=true;}
+  if(id==='guild'&&!window._gd){renderGuild();window._gd=true;}
 }
 
 // ランキング
@@ -656,6 +671,54 @@ function renderBand(){
     h+=`<tr><td>${b}</td>`+active.map(sv=>{const v=mx[sv][i];return`<td class="${v?'hv':''}">${v||'—'}</td>`;}).join('')+`<td class="hv total">${tot}</td></tr>`;
   });
   document.getElementById('bandTable').innerHTML=h+'</tbody>';
+}
+
+// ギルド別
+function renderGuild(){
+  const gMap={};
+  RAW.forEach(([,,sv,guild,bp])=>{
+    if(!guild||guild==='-')return;
+    if(!gMap[guild])gMap[guild]={bps:[],svs:{}};
+    gMap[guild].bps.push(bp);
+    gMap[guild].svs[sv]=(gMap[guild].svs[sv]||0)+1;
+  });
+  const guilds=Object.entries(gMap).map(([name,{bps,svs}])=>{
+    const tot=bps.reduce((s,v)=>s+v,0);
+    const primSv=Object.entries(svs).sort((a,b)=>b[1]-a[1])[0][0];
+    return{name,count:bps.length,svList:Object.keys(svs),primSv,total:tot,avg:Math.round(tot/bps.length),top:Math.max(...bps)};
+  });
+  guilds.sort((a,b)=>b.count-a.count||b.avg-a.avg);
+  const byAvg=[...guilds].sort((a,b)=>b.avg-a.avg)[0];
+  const byTot=[...guilds].sort((a,b)=>b.total-a.total)[0];
+  document.getElementById('guildMetrics').innerHTML=
+    `<div class="m-card"><div class="mc-label">最多人数</div><div class="mc-val" style="font-size:.82rem">${guilds[0].name}<br><span style="font-size:.75rem;color:var(--txt2)">${guilds[0].count} 人</span></div></div>`+
+    `<div class="m-card"><div class="mc-label">最高平均戦闘力</div><div class="mc-val" style="font-size:.82rem">${byAvg.name}<br><span style="font-size:.75rem;color:var(--txt2)">${byAvg.avg.toLocaleString()}</span></div></div>`+
+    `<div class="m-card"><div class="mc-label">最高合計戦闘力</div><div class="mc-val" style="font-size:.82rem">${byTot.name}<br><span style="font-size:.75rem;color:var(--txt2)">${byTot.total.toLocaleString()}</span></div></div>`+
+    `<div class="m-card"><div class="mc-label">ギルド総数</div><div class="mc-val">${guilds.length}</div></div>`;
+  const top15=guilds.slice(0,15);
+  const maxCnt=top15[0].count;
+  document.getElementById('guildBars').innerHTML=top15.map(g=>{
+    const pct=Math.round(g.count/maxCnt*100);
+    const col=CLRS[SERVERS.indexOf(g.primSv)];
+    return`<div class="sv-bar-row">
+      <span class="sv-bar-name" style="min-width:100px;max-width:100px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap" title="${g.name}">${g.name}</span>
+      <div class="sv-bar-track"><div class="sv-bar-fill" style="width:${pct}%;background:${col}"></div></div>
+      <span class="sv-bar-meta"><strong>${g.count}</strong>人 avg ${g.avg.toLocaleString()}</span>
+    </div>`;
+  }).join('');
+  new Chart(document.getElementById('guildChart'),{type:'bar',
+    data:{labels:top15.map(g=>g.name.length>7?g.name.slice(0,7)+'…':g.name),
+      datasets:[{label:'平均戦闘力',data:top15.map(g=>g.avg),backgroundColor:top15.map(g=>CLRS[SERVERS.indexOf(g.primSv)]+'cc'),borderRadius:6,borderSkipped:false}]},
+    options:{responsive:true,maintainAspectRatio:false,
+      plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>'avg: '+c.raw.toLocaleString()},bodyFont:{family:'Meiryo'}}},
+      scales:{y:{ticks:{callback:v=>(v/1000).toFixed(0)+'k',font:{size:11},color:'#4a5060'},grid:{color:'rgba(255,255,255,0.04)'}},
+              x:{ticks:{font:{size:9},color:'#4a5060',maxRotation:45},grid:{display:false}}}}});
+  let h='<thead><tr><th>#</th><th style="text-align:left">ギルド名</th><th>サーバー</th><th>人数</th><th>平均BP</th><th>最高BP</th><th>合計BP</th></tr></thead><tbody>';
+  guilds.forEach((g,i)=>{
+    const sv=g.svList.map(s=>`<span class="sv-badge ${svCls(s)}" style="font-size:9px;padding:1px 5px">${s.replace('リカード','R')}</span>`).join('');
+    h+=`<tr><td>${i+1}</td><td style="text-align:left;color:var(--txt);font-weight:500">${g.name}</td><td>${sv}</td><td class="hv">${g.count}</td><td class="hv">${g.avg.toLocaleString()}</td><td>${g.top.toLocaleString()}</td><td>${g.total.toLocaleString()}</td></tr>`;
+  });
+  document.getElementById('guildTable').innerHTML=h+'</tbody>';
 }
 
 renderTable(RAW);
