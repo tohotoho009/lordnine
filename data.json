@@ -1,156 +1,1234 @@
 [
-{"rank":1,"rank_change":8,"server":"レムス01","player":"最強SungJinWoo","guild":"乂KainPuday","power":223583},
-{"rank":2,"rank_change":-1,"server":"レムス03","player":"A・卄卄卄卄","guild":"ASTRA","power":215168},
-{"rank":3,"rank_change":-1,"server":"レムス06","player":"Jigeum","guild":"バディングスレイヤー","power":214209},
-{"rank":4,"rank_change":2,"server":"レムス01","player":"fareeza","guild":"RR修羅道","power":213756},
-{"rank":5,"rank_change":16,"server":"レムス03","player":"真しわす","guild":"RRとりギル参","power":210737},
-{"rank":6,"rank_change":-3,"server":"レムス08","player":"とりあえずルーミア","guild":"RRとりギル壱","power":209721},
-{"rank":7,"rank_change":-2,"server":"レムス08","player":"とりあえずBAJI","guild":null,"power":208926},
-{"rank":8,"rank_change":2,"server":"レムス03","player":"しわす本物","guild":"RRとりギル参","power":208705},
-{"rank":9,"rank_change":-2,"server":"レムス09","player":"怒怒璃亜","guild":"RR残火","power":207339},
-{"rank":10,"rank_change":-2,"server":"レムス08","player":"とりあえずさきっちょだけ","guild":"RRとりギル壱","power":207225},
-{"rank":11,"rank_change":-7,"server":"レムス03","player":"A・Escanor","guild":"ASTRA","power":206789},
-{"rank":12,"rank_change":2,"server":"レムス03","player":"A・卄卄卄卄","guild":"ASTRA","power":205459},
-{"rank":13,"rank_change":-1,"server":"レムス01","player":"Cosmetic田中","guild":null,"power":202850},
-{"rank":14,"rank_change":-1,"server":"レムス06","player":"影刃","guild":"バディングスレイヤー","power":202155},
-{"rank":15,"rank_change":5,"server":"レムス02","player":"A・卄卄卄卄","guild":"Supreme","power":201233},
-{"rank":16,"rank_change":-5,"server":"レムス01","player":"霜月の翁","guild":"RR修羅道","power":201223},
-{"rank":17,"rank_change":-1,"server":"レムス07","player":"みょん","guild":"サブキャラ用","power":200899},
-{"rank":18,"rank_change":-1,"server":"レムス06","player":"ハチワレ","guild":"RRプリキュア","power":200330},
-{"rank":19,"rank_change":4,"server":"レムス01","player":"RaeLiLBlack","guild":"乂KainPwet","power":200141},
-{"rank":20,"rank_change":-2,"server":"レムス06","player":"WUNG","guild":"バディングスレイヤー","power":200037},
-{"rank":21,"rank_change":-2,"server":"レムス09","player":"Makko","guild":"RR残火","power":199989},
-{"rank":22,"rank_change":0,"server":"レムス08","player":"あるぅうかも","guild":"RRとりギル壱","power":199039},
-{"rank":23,"rank_change":6,"server":"レムス07","player":"丹生","guild":"RR残火","power":199037},
-{"rank":24,"rank_change":0,"server":"レムス01","player":"とこもた","guild":"RR心機一転","power":197751},
-{"rank":25,"rank_change":69,"server":"レムス01","player":"XeptraGPDS","guild":"乂KainPuday","power":197455},
-{"rank":26,"rank_change":0,"server":"レムス01","player":"最強Antares","guild":"乂KainPuday","power":196878},
-{"rank":27,"rank_change":-2,"server":"レムス08","player":"とりあえずゲン","guild":"RRとりギル壱","power":196873},
-{"rank":28,"rank_change":-1,"server":"レムス01","player":"斧手のモーガン","guild":null,"power":196144},
-{"rank":29,"rank_change":-1,"server":"レムス06","player":"Apollon","guild":"Tears","power":195613},
-{"rank":30,"rank_change":0,"server":"レムス06","player":"ßニニニニニニニニÐ","guild":"バディングスレイヤー","power":195224},
-{"rank":31,"rank_change":87,"server":"レムス06","player":"Elcana","guild":"バディングスレイヤー","power":195194},
-{"rank":32,"rank_change":43,"server":"レムス01","player":"最強Kenpachi","guild":"乂KainPuday","power":195062},
-{"rank":33,"rank_change":-2,"server":"レムス08","player":"とりあえず夏子49才","guild":"RRとりギル壱","power":194541},
-{"rank":34,"rank_change":-2,"server":"レムス08","player":"とりあえずエタ","guild":"RRとりギル壱","power":194243},
-{"rank":35,"rank_change":49,"server":"レムス01","player":"IIIiIIII","guild":"乂KainPwet","power":193939},
-{"rank":36,"rank_change":-2,"server":"レムス01","player":"最強Ashborn","guild":"乂KainPuday","power":193041},
-{"rank":37,"rank_change":-4,"server":"レムス04","player":"Lyza","guild":null,"power":192284},
-{"rank":38,"rank_change":-23,"server":"レムス09","player":"いだてん","guild":"RR残火","power":192226},
-{"rank":39,"rank_change":-4,"server":"レムス01","player":"最強ShunsuiKyo","guild":"乂KainPuday","power":192191},
-{"rank":40,"rank_change":37,"server":"レムス01","player":"最強Genryusai","guild":"乂KainPuday","power":192094},
-{"rank":41,"rank_change":-1,"server":"レムス06","player":"Rapier","guild":"バディングスレイヤー","power":191754},
-{"rank":42,"rank_change":-5,"server":"レムス07","player":"BinBin","guild":"RR残火","power":191685},
-{"rank":43,"rank_change":10,"server":"レムス01","player":"黒の剣士キリト","guild":null,"power":191672},
-{"rank":44,"rank_change":-6,"server":"レムス08","player":"とりあえずへぶん","guild":"RRとりギル壱","power":191046},
-{"rank":45,"rank_change":-6,"server":"レムス01","player":"ツキ","guild":"RR修羅道","power":191036},
-{"rank":46,"rank_change":14,"server":"レムス01","player":"R18日車くん","guild":"RR修羅道","power":190612},
-{"rank":47,"rank_change":-6,"server":"レムス10","player":"マスターチキン","guild":"RRCanopus","power":190314},
-{"rank":48,"rank_change":8,"server":"レムス03","player":"とりあえずしわむ","guild":"RRとりギル参","power":189845},
-{"rank":49,"rank_change":-6,"server":"レムス03","player":"シャーリー","guild":"RR防衛隊第3部隊","power":189754},
-{"rank":50,"rank_change":-6,"server":"レムス09","player":"gksrnrdls","guild":null,"power":189643},
-{"rank":51,"rank_change":-15,"server":"レムス09","player":"フェリクス","guild":"RR残火","power":189612},
-{"rank":52,"rank_change":-7,"server":"レムス09","player":"ベアドラ","guild":"RR残火","power":189467},
-{"rank":53,"rank_change":237,"server":"レムス01","player":"キャバジョーカー","guild":"RR修羅道","power":188654},
-{"rank":54,"rank_change":-12,"server":"レムス08","player":"とりあえずZetu","guild":"RRとりギル壱","power":188613},
-{"rank":55,"rank_change":-8,"server":"レムス03","player":"卍最強しわす卍","guild":"RRとりギル参","power":188602},
-{"rank":56,"rank_change":-8,"server":"レムス06","player":"八チワレ","guild":"RRプリキュア","power":188233},
-{"rank":57,"rank_change":-8,"server":"レムス09","player":"ぷにるん","guild":"RR残火","power":187941},
-{"rank":58,"rank_change":-12,"server":"レムス10","player":"だーくすりいぱ","guild":"RRCanopus","power":187694},
-{"rank":59,"rank_change":-7,"server":"レムス01","player":"Muzan","guild":"乂KainPwet","power":187431},
-{"rank":60,"rank_change":6,"server":"レムス04","player":"メジロマックイーン","guild":null,"power":187257},
-{"rank":61,"rank_change":18,"server":"レムス08","player":"とりあえずぼんた","guild":"RRとりギル壱","power":186627},
-{"rank":62,"rank_change":-7,"server":"レムス02","player":"Fenrir","guild":"Ascalon","power":186498},
-{"rank":63,"rank_change":-6,"server":"レムス09","player":"DEDE","guild":"RR残火","power":186212},
-{"rank":64,"rank_change":-5,"server":"レムス07","player":"りんか","guild":"たんぽぽ堂","power":185802},
-{"rank":65,"rank_change":-11,"server":"レムス01","player":"わんしー","guild":"RR修羅道","power":185799},
-{"rank":66,"rank_change":-5,"server":"レムス01","player":"最強LEGIA","guild":"乂KainPuday","power":185580},
-{"rank":67,"rank_change":-5,"server":"レムス08","player":"とりあえずらいでん","guild":"RRとりギル壱","power":185499},
-{"rank":68,"rank_change":-17,"server":"レムス01","player":"kUrØ","guild":"乂KainPwet","power":185422},
-{"rank":69,"rank_change":-5,"server":"レムス04","player":"金羊毛騎士シャバ","guild":"ぱるぷんて","power":185394},
-{"rank":70,"rank_change":-7,"server":"レムス01","player":"最強Momentum","guild":"乂KainPuday","power":185343},
-{"rank":71,"rank_change":12,"server":"レムス07","player":"もっちゃん","guild":"RR残火","power":185313},
-{"rank":72,"rank_change":-7,"server":"レムス03","player":"私はしわす","guild":null,"power":184969},
-{"rank":73,"rank_change":-6,"server":"レムス01","player":"GoodJob","guild":"RR修羅道","power":184841},
-{"rank":74,"rank_change":-16,"server":"レムス03","player":"A・VIZ","guild":"ASTRA","power":184723},
-{"rank":75,"rank_change":-25,"server":"レムス08","player":"とりあえずカメリア","guild":"RRとりギル壱","power":184691},
-{"rank":76,"rank_change":-8,"server":"レムス06","player":"Poco","guild":"RRプリキュア","power":184570},
-{"rank":77,"rank_change":-8,"server":"レムス01","player":"ディープインパクト","guild":null,"power":184382},
-{"rank":78,"rank_change":10,"server":"レムス09","player":"打撲で死んだ僕","guild":"RR残火","power":183834},
-{"rank":79,"rank_change":-8,"server":"レムス08","player":"とりあえずパンツ","guild":"RRとりギル壱","power":183685},
-{"rank":80,"rank_change":-7,"server":"レムス01","player":"武藤遊戯","guild":"RR修羅道","power":183623},
-{"rank":81,"rank_change":-9,"server":"レムス03","player":"A・Deuce","guild":"ASTRA","power":183564},
-{"rank":82,"rank_change":-8,"server":"レムス09","player":"もか","guild":"RR残火","power":183396},
-{"rank":83,"rank_change":-3,"server":"レムス01","player":"卍Kokushibo","guild":"乂KainPuday","power":182420},
-{"rank":84,"rank_change":-6,"server":"レムス04","player":"くりまんじゅう","guild":null,"power":182233},
-{"rank":85,"rank_change":-4,"server":"レムス09","player":"転転","guild":"RR残火","power":181982},
-{"rank":86,"rank_change":-4,"server":"レムス01","player":"HONOooooooo","guild":"RR心機一転","power":181947},
-{"rank":87,"rank_change":19,"server":"レムス01","player":"Patrasche","guild":"月影のレオ族","power":181831},
-{"rank":88,"rank_change":23,"server":"レムス01","player":"ろっか","guild":"RR修羅道","power":181671},
-{"rank":89,"rank_change":-4,"server":"レムス10","player":"乱れ牡丹","guild":null,"power":181381},
-{"rank":90,"rank_change":-4,"server":"レムス09","player":"ぷーぷ","guild":"RR残火","power":181333},
-{"rank":91,"rank_change":-2,"server":"レムス03","player":"Yotuioomm","guild":"ASTRA","power":181192},
-{"rank":92,"rank_change":-2,"server":"レムス01","player":"Gyomei","guild":"乂KainPwet","power":181117},
-{"rank":93,"rank_change":8,"server":"レムス09","player":"ダレヤワレ明美","guild":"RR残火","power":181019},
-{"rank":94,"rank_change":-2,"server":"レムス09","player":"たまめ","guild":"はなまる小学校","power":180926},
-{"rank":95,"rank_change":-2,"server":"レムス06","player":"xFakeReiny","guild":"バディングスレイヤー","power":180900},
-{"rank":96,"rank_change":-5,"server":"レムス03","player":"Hitbox","guild":"ASTRA","power":180674},
-{"rank":97,"rank_change":-2,"server":"レムス05","player":"まいろ","guild":"RRWB","power":180436},
-{"rank":98,"rank_change":-2,"server":"レムス06","player":"SilverSnow","guild":null,"power":180392},
-{"rank":99,"rank_change":-12,"server":"レムス08","player":"とりあえずまりさ","guild":"RRとりギル壱","power":180265},
-{"rank":100,"rank_change":-2,"server":"レムス08","player":"とりあえずゴッティ","guild":"RRとりギル壱","power":180100},
-{"rank":101,"rank_change":-2,"server":"レムス01","player":"SetoKanna","guild":"乂KainPwet","power":179865},
-{"rank":102,"rank_change":-2,"server":"レムス01","player":"最強Querehsha","guild":"乂KainPuday","power":179842},
-{"rank":103,"rank_change":9,"server":"レムス01","player":"elcuatro","guild":"乂KainPwet","power":179542},
-{"rank":104,"rank_change":12,"server":"レムス03","player":"原罪の堕天使ばじにゃん様","guild":"RR防衛隊第3部隊","power":179492},
-{"rank":105,"rank_change":-35,"server":"レムス01","player":"Hadatenshi","guild":"乂KainPuday","power":179411},
-{"rank":106,"rank_change":-4,"server":"レムス09","player":"Andante","guild":"RR残火","power":179225},
-{"rank":107,"rank_change":14,"server":"レムス09","player":"Trish","guild":"RR残火","power":179222},
-{"rank":108,"rank_change":-11,"server":"レムス06","player":"jiji","guild":"RRぷりきゅあ","power":178813},
-{"rank":109,"rank_change":0,"server":"レムス01","player":"たっちゃん","guild":"RR修羅道","power":178678},
-{"rank":110,"rank_change":-6,"server":"レムス02","player":"ちゅーさ","guild":null,"power":178174},
-{"rank":111,"rank_change":-35,"server":"レムス04","player":"毘沙門天","guild":null,"power":178115},
-{"rank":112,"rank_change":-7,"server":"レムス01","player":"黄山海VNDMaiMai","guild":"Nightfall","power":178087},
-{"rank":113,"rank_change":-6,"server":"レムス06","player":"ユヒカ","guild":"RRプリキュア","power":177549},
-{"rank":114,"rank_change":-6,"server":"レムス06","player":"炎柱เคียวจูโร","guild":"バディングスレイヤー","power":177529},
-{"rank":115,"rank_change":-5,"server":"レムス02","player":"クイル","guild":null,"power":177495},
-{"rank":116,"rank_change":-13,"server":"レムス01","player":"Doutzen","guild":"乂KainPwet","power":177202},
-{"rank":117,"rank_change":13,"server":"レムス07","player":"OBiTO","guild":"X么VIER","power":176971},
-{"rank":118,"rank_change":-5,"server":"レムス07","player":"MarBEN10ツ","guild":"ALASJUICY","power":176415},
-{"rank":119,"rank_change":81,"server":"レムス04","player":"うおうおフィッシュ","guild":"RRゼルうどん","power":176397},
-{"rank":120,"rank_change":-5,"server":"レムス01","player":"売り物","guild":"乂KainPuday","power":176315},
-{"rank":121,"rank_change":16,"server":"レムス08","player":"とりあえずむう","guild":"RRとりギル壱","power":176208},
-{"rank":122,"rank_change":-8,"server":"レムス03","player":"とりあえずオロチ","guild":"RRとりギル参","power":176065},
-{"rank":123,"rank_change":11,"server":"レムス04","player":"とりあえず蝕王の晩餐","guild":"RRゼルうどん","power":175728},
-{"rank":124,"rank_change":-5,"server":"レムス06","player":"otonaaa","guild":"RRプリキュア","power":175533},
-{"rank":125,"rank_change":-5,"server":"レムス08","player":"Seah","guild":"RRとりギル壱","power":175461},
-{"rank":126,"rank_change":-4,"server":"レムス02","player":"披薩揚語","guild":"Farmers","power":175260},
-{"rank":127,"rank_change":-3,"server":"レムス10","player":"Story","guild":"ソロ活JP","power":175135},
-{"rank":128,"rank_change":-3,"server":"レムス01","player":"KrAm13","guild":"乂KainPwet","power":175129},
-{"rank":129,"rank_change":-12,"server":"レムス01","player":"Gungnir","guild":"乂KainPuday","power":175028},
-{"rank":130,"rank_change":-4,"server":"レムス08","player":"alisa","guild":"RRとりギル壱","power":174871},
-{"rank":131,"rank_change":-3,"server":"レムス08","player":"とりあえずロック","guild":"RRとりギル壱","power":174822},
-{"rank":132,"rank_change":-9,"server":"レムス09","player":"ザンギャ君","guild":"RR残火","power":174720},
-{"rank":133,"rank_change":-2,"server":"レムス01","player":"mio83","guild":"RR修羅道","power":174246},
-{"rank":134,"rank_change":4,"server":"レムス05","player":"可能性の獣","guild":"RRWB","power":174233},
-{"rank":135,"rank_change":-3,"server":"レムス05","player":"さめざめ","guild":"TKuredoT","power":174089},
-{"rank":136,"rank_change":0,"server":"レムス04","player":"ペルジュン","guild":null,"power":173582},
-{"rank":137,"rank_change":-4,"server":"レムス03","player":"A・ZIRK","guild":"ASTRA","power":173524},
-{"rank":138,"rank_change":40,"server":"レムス01","player":"Caster","guild":"RR修羅道","power":173201},
-{"rank":139,"rank_change":0,"server":"レムス04","player":"ちゃば","guild":null,"power":173094},
-{"rank":140,"rank_change":0,"server":"レムス06","player":"でっく","guild":"RRプリキュア","power":173052},
-{"rank":141,"rank_change":6,"server":"レムス06","player":"にとり","guild":"RRプリキュア","power":173047},
-{"rank":142,"rank_change":-1,"server":"レムス06","player":"はんぞー","guild":null,"power":173015},
-{"rank":143,"rank_change":-8,"server":"レムス09","player":"gai","guild":"MercenarieSs","power":172882},
-{"rank":144,"rank_change":-2,"server":"レムス01","player":"PhaNTasm","guild":"乂KainPwet","power":172868},
-{"rank":145,"rank_change":-2,"server":"レムス09","player":"あんみつ","guild":"RR残火","power":172852},
-{"rank":146,"rank_change":-2,"server":"レムス06","player":"風柱ชาเนมิ","guild":"バディングスレイヤー","power":172668},
-{"rank":147,"rank_change":-2,"server":"レムス09","player":"アニモ楽しいです","guild":"ゴールドキャット","power":172512},
-{"rank":148,"rank_change":-2,"server":"レムス06","player":"ぶんちー","guild":"RRプリキュア","power":172366},
-{"rank":149,"rank_change":-1,"server":"レムス06","player":"Rook","guild":"RRプリキュア","power":172179},
-{"rank":150,"rank_change":-1,"server":"レムス05","player":"だいふく","guild":"RRWB","power":171750},
-{"rank":151,"rank_change":-1,"server":"レムス05","player":"新さんた","guild":"RRWB","power":171738},
-{"rank":152,"rank_change":-23,"server":"レムス06","player":"BニニニニニニニニD","guild":"バディングスレイヤー","power":171671},
-{"rank":153,"rank_change":124,"server":"レムス01","player":"MURDERER","guild":"乂KainPuday","power":171405},
-{"rank":154,"rank_change":-3,"server":"レムス02","player":"Secretkey","guild":"Luckbased","power":171365}
+{
+"rank": 1,
+"rank_change": 3,
+"server": "レムス03",
+"player": "A・卄卄卄卄_1",
+"guild": "ASTRA",
+"power": 214393
+},
+{
+"rank": 2,
+"rank_change": 0,
+"server": "レムス06",
+"player": "Jigeum",
+"guild": "バディングスレイヤー",
+"power": 214209
+},
+{
+"rank": 3,
+"rank_change": 0,
+"server": "レムス08",
+"player": "とりあえずルーミア",
+"guild": "RRとりギル壱",
+"power": 209906
+},
+{
+"rank": 4,
+"rank_change": -3,
+"server": "レムス03",
+"player": "A・Escanor",
+"guild": "ASTRA",
+"power": 209506
+},
+{
+"rank": 5,
+"rank_change": 3,
+"server": "レムス08",
+"player": "とりあえずさきっちょだけ",
+"guild": "RRとりギル壱",
+"power": 207225
+},
+{
+"rank": 6,
+"rank_change": 0,
+"server": "レムス04",
+"player": "fareeza",
+"guild": null,
+"power": 207219
+},
+{
+"rank": 7,
+"rank_change": -2,
+"server": "レムス08",
+"player": "とりあえずBAJI",
+"guild": null,
+"power": 206994
+},
+{
+"rank": 8,
+"rank_change": 2,
+"server": "レムス08",
+"player": "真しわす",
+"guild": null,
+"power": 206380
+},
+{
+"rank": 9,
+"rank_change": -2,
+"server": "レムス07",
+"player": "怒怒璃亜",
+"guild": null,
+"power": 205988
+},
+{
+"rank": 10,
+"rank_change": 1,
+"server": "レムス08",
+"player": "しわす本物",
+"guild": null,
+"power": 204609
+},
+{
+"rank": 11,
+"rank_change": 8,
+"server": "レムス06",
+"player": "WUNG",
+"guild": "バディングスレイヤー",
+"power": 204103
+},
+{
+"rank": 12,
+"rank_change": 0,
+"server": "レムス04",
+"player": "霜月の翁",
+"guild": null,
+"power": 203156
+},
+{
+"rank": 13,
+"rank_change": 0,
+"server": "レムス08",
+"player": "Cosmetic田中",
+"guild": null,
+"power": 202650
+},
+{
+"rank": 14,
+"rank_change": 0,
+"server": "レムス06",
+"player": "影刃",
+"guild": "バディングスレイヤー",
+"power": 202123
+},
+{
+"rank": 15,
+"rank_change": 1,
+"server": "レムス03",
+"player": "A・卄卄卄卄_2",
+"guild": "ASTRA",
+"power": 201521
+},
+{
+"rank": 16,
+"rank_change": 2,
+"server": "レムス07",
+"player": "みょん",
+"guild": null,
+"power": 200301
+},
+{
+"rank": 17,
+"rank_change": 4,
+"server": "レムス06",
+"player": "ハチワレ",
+"guild": "RRプリキュア",
+"power": 199821
+},
+{
+"rank": 18,
+"rank_change": -3,
+"server": "レムス04",
+"player": "ピカチュウ",
+"guild": null,
+"power": 199627
+},
+{
+"rank": 19,
+"rank_change": 4,
+"server": "レムス02",
+"player": "A・卄卄卄卄_3",
+"guild": "Supreme",
+"power": 199402
+},
+{
+"rank": 20,
+"rank_change": 2,
+"server": "レムス10",
+"player": "P王・FM",
+"guild": null,
+"power": 199050
+},
+{
+"rank": 21,
+"rank_change": -1,
+"server": "レムス07",
+"player": "Makko",
+"guild": null,
+"power": 198994
+},
+{
+"rank": 22,
+"rank_change": 3,
+"server": "レムス08",
+"player": "あるぅうかも",
+"guild": "RRとりギル壱",
+"power": 198130
+},
+{
+"rank": 23,
+"rank_change": 1,
+"server": "レムス07",
+"player": "丹生",
+"guild": null,
+"power": 198067
+},
+{
+"rank": 24,
+"rank_change": 3,
+"server": "レムス06",
+"player": "Rapier",
+"guild": "バディングスレイヤー",
+"power": 197185
+},
+{
+"rank": 25,
+"rank_change": 1,
+"server": "レムス01",
+"player": "とこもた",
+"guild": "RR心機一転",
+"power": 197069
+},
+{
+"rank": 26,
+"rank_change": 3,
+"server": "レムス08",
+"player": "とりあえずゲン",
+"guild": "RRとりギル壱",
+"power": 196863
+},
+{
+"rank": 27,
+"rank_change": 4,
+"server": "レムス08",
+"player": "斧手のモーガン",
+"guild": null,
+"power": 196084
+},
+{
+"rank": 28,
+"rank_change": 86,
+"server": "レムス06",
+"player": "Elcana",
+"guild": "バディングスレイヤー",
+"power": 195544
+},
+{
+"rank": 29,
+"rank_change": 3,
+"server": "レムス06",
+"player": "ßニニニニニニニニÐ",
+"guild": "バディングスレイヤー",
+"power": 195234
+},
+{
+"rank": 30,
+"rank_change": 4,
+"server": "レムス08",
+"player": "とりあえず夏子49才",
+"guild": "RRとりギル壱",
+"power": 194531
+},
+{
+"rank": 31,
+"rank_change": 6,
+"server": "レムス06",
+"player": "ゆすふ・でぃけち",
+"guild": null,
+"power": 194494
+},
+{
+"rank": 32,
+"rank_change": 4,
+"server": "レムス06",
+"player": "Apollon",
+"guild": "Tears",
+"power": 194469
+},
+{
+"rank": 33,
+"rank_change": 5,
+"server": "レムス08",
+"player": "とりあえずエタ",
+"guild": "RRとりギル壱",
+"power": 194233
+},
+{
+"rank": 34,
+"rank_change": 16,
+"server": "レムス03",
+"player": "A・Ura",
+"guild": null,
+"power": 192436
+},
+{
+"rank": 35,
+"rank_change": 5,
+"server": "レムス06",
+"player": "Lyza",
+"guild": null,
+"power": 192014
+},
+{
+"rank": 36,
+"rank_change": 9,
+"server": "レムス06",
+"player": "BIVA",
+"guild": "RRプリキュア",
+"power": 191127
+},
+{
+"rank": 37,
+"rank_change": -20,
+"server": "レムス07",
+"player": "いだてん",
+"guild": null,
+"power": 191014
+},
+{
+"rank": 38,
+"rank_change": 6,
+"server": "レムス08",
+"player": "とりあえずへぶん",
+"guild": "RRとりギル壱",
+"power": 190996
+},
+{
+"rank": 39,
+"rank_change": 10,
+"server": "レムス07",
+"player": "シャーリー",
+"guild": null,
+"power": 190706
+},
+{
+"rank": 40,
+"rank_change": 7,
+"server": "レムス10",
+"player": "マスターチキン",
+"guild": "RRCanopus",
+"power": 190314
+},
+{
+"rank": 41,
+"rank_change": 14,
+"server": "レムス08",
+"player": "とりあえずZetu",
+"guild": "RRとりギル壱",
+"power": 190226
+},
+{
+"rank": 42,
+"rank_change": -9,
+"server": "レムス07",
+"player": "BinBin",
+"guild": null,
+"power": 189897
+},
+{
+"rank": 43,
+"rank_change": 32,
+"server": "レムス08",
+"player": "とりあえずカメリア",
+"guild": "RRとりギル壱",
+"power": 189874
+},
+{
+"rank": 44,
+"rank_change": -1,
+"server": "レムス04",
+"player": "ツキ",
+"guild": null,
+"power": 189687
+},
+{
+"rank": 45,
+"rank_change": 8,
+"server": "レムス07",
+"player": "りんか",
+"guild": "たんぽぽ堂",
+"power": 189172
+},
+{
+"rank": 46,
+"rank_change": 8,
+"server": "レムス10",
+"player": "だーくすりいぱ",
+"guild": "RRCanopus",
+"power": 189144
+},
+{
+"rank": 47,
+"rank_change": 9,
+"server": "レムス04",
+"player": "R18日車くん",
+"guild": null,
+"power": 189143
+},
+{
+"rank": 48,
+"rank_change": -6,
+"server": "レムス08",
+"player": "よび",
+"guild": null,
+"power": 188371
+},
+{
+"rank": 49,
+"rank_change": 8,
+"server": "レムス06",
+"player": "八チワレ",
+"guild": "RRプリキュア",
+"power": 188313
+},
+{
+"rank": 50,
+"rank_change": 1,
+"server": "レムス07",
+"player": "ベアドラ",
+"guild": null,
+"power": 188275
+},
+{
+"rank": 51,
+"rank_change": 11,
+"server": "レムス08",
+"player": "私はしわす",
+"guild": "RRとりギル壱",
+"power": 188094
+},
+{
+"rank": 52,
+"rank_change": 6,
+"server": "レムス08",
+"player": "卍最強しわす卍",
+"guild": null,
+"power": 188016
+},
+{
+"rank": 53,
+"rank_change": -12,
+"server": "レムス03",
+"player": "A・VIZ",
+"guild": "ASTRA",
+"power": 186785
+},
+{
+"rank": 54,
+"rank_change": 11,
+"server": "レムス02",
+"player": "Fenrir",
+"guild": "Ascalon",
+"power": 186498
+},
+{
+"rank": 55,
+"rank_change": -7,
+"server": "レムス08",
+"player": "SHIMASU",
+"guild": null,
+"power": 186408
+},
+{
+"rank": 56,
+"rank_change": 8,
+"server": "レムス06",
+"player": "メジロマックイーン",
+"guild": null,
+"power": 186394
+},
+{
+"rank": 57,
+"rank_change": 10,
+"server": "レムス07",
+"player": "もっちゃん",
+"guild": null,
+"power": 186378
+},
+{
+"rank": 58,
+"rank_change": 5,
+"server": "レムス07",
+"player": "ぷにるん",
+"guild": null,
+"power": 186089
+},
+{
+"rank": 59,
+"rank_change": 11,
+"server": "レムス04",
+"player": "金羊毛騎士シャバ",
+"guild": "ぱるぷんて",
+"power": 185434
+},
+{
+"rank": 60,
+"rank_change": 6,
+"server": "レムス04",
+"player": "わんしー",
+"guild": null,
+"power": 185414
+},
+{
+"rank": 61,
+"rank_change": 15,
+"server": "レムス08",
+"player": "とりあえずらいでん",
+"guild": "RRとりギル壱",
+"power": 184964
+},
+{
+"rank": 62,
+"rank_change": 12,
+"server": "レムス06",
+"player": "Poco",
+"guild": "RRプリキュア",
+"power": 184585
+},
+{
+"rank": 63,
+"rank_change": 41,
+"server": "レムス04",
+"player": "キャバジョーカー",
+"guild": null,
+"power": 184018
+},
+{
+"rank": 64,
+"rank_change": 7,
+"server": "レムス07",
+"player": "野晒",
+"guild": null,
+"power": 183882
+},
+{
+"rank": 65,
+"rank_change": 7,
+"server": "レムス04",
+"player": "武藤遊戯",
+"guild": null,
+"power": 183844
+},
+{
+"rank": 66,
+"rank_change": 11,
+"server": "レムス03",
+"player": "A・Deuce",
+"guild": "ASTRA",
+"power": 183752
+},
+{
+"rank": 67,
+"rank_change": 11,
+"server": "レムス08",
+"player": "とりあえずパンツ",
+"guild": "RRとりギル壱",
+"power": 183685
+},
+{
+"rank": 68,
+"rank_change": 5,
+"server": "レムス04",
+"player": "GoodJob",
+"guild": null,
+"power": 183648
+},
+{
+"rank": 69,
+"rank_change": -10,
+"server": "レムス08",
+"player": "とりあえずぼんた",
+"guild": "RRとりギル壱",
+"power": 183427
+},
+{
+"rank": 70,
+"rank_change": 10,
+"server": "レムス06",
+"player": "メジロブライト",
+"guild": null,
+"power": 183265
+},
+{
+"rank": 71,
+"rank_change": 35,
+"server": "レムス06",
+"player": "HERMES",
+"guild": null,
+"power": 182516
+},
+{
+"rank": 72,
+"rank_change": -11,
+"server": "レムス07",
+"player": "DEDE",
+"guild": null,
+"power": 182472
+},
+{
+"rank": 73,
+"rank_change": 6,
+"server": "レムス07",
+"player": "もか",
+"guild": null,
+"power": 182185
+},
+{
+"rank": 74,
+"rank_change": 10,
+"server": "レムス01",
+"player": "HONOooooooo",
+"guild": "RR心機一転",
+"power": 181997
+},
+{
+"rank": 75,
+"rank_change": 8,
+"server": "レムス10",
+"player": "乱れ牡丹",
+"guild": "ぺんぺん",
+"power": 181861
+},
+{
+"rank": 76,
+"rank_change": 10,
+"server": "レムス03",
+"player": "Yotuioomm",
+"guild": "ASTRA",
+"power": 181252
+},
+{
+"rank": 77,
+"rank_change": 10,
+"server": "レムス06",
+"player": "xFakeReiny",
+"guild": "バディングスレイヤー",
+"power": 181190
+},
+{
+"rank": 78,
+"rank_change": 41,
+"server": "レムス07",
+"player": "MarBEN10ツ",
+"guild": "ALASJUICY",
+"power": 181119
+},
+{
+"rank": 79,
+"rank_change": 16,
+"server": "レムス07",
+"player": "打撲で死んだ僕",
+"guild": null,
+"power": 180912
+},
+{
+"rank": 80,
+"rank_change": 1,
+"server": "レムス07",
+"player": "転転",
+"guild": null,
+"power": 180761
+},
+{
+"rank": 81,
+"rank_change": 10,
+"server": "レムス05",
+"player": "まいろ",
+"guild": "RRWB",
+"power": 180436
+},
+{
+"rank": 82,
+"rank_change": 18,
+"server": "レムス06",
+"player": "jiji",
+"guild": "RRぷりきゅあ",
+"power": 180300
+},
+{
+"rank": 83,
+"rank_change": 11,
+"server": "レムス08",
+"player": "とりあえずゴッティ",
+"guild": "RRとりギル壱",
+"power": 180100
+},
+{
+"rank": 84,
+"rank_change": 1,
+"server": "レムス07",
+"player": "ダレヤワレ明美",
+"guild": null,
+"power": 180097
+},
+{
+"rank": 85,
+"rank_change": 12,
+"server": "レムス06",
+"player": "SilverSnow",
+"guild": "バディングスレイヤー",
+"power": 179757
+},
+{
+"rank": 86,
+"rank_change": 3,
+"server": "レムス04",
+"player": "たまめ",
+"guild": null,
+"power": 179716
+},
+{
+"rank": 87,
+"rank_change": 6,
+"server": "レムス09",
+"player": "黄山海VNDMaiMai",
+"guild": null,
+"power": 179532
+},
+{
+"rank": 88,
+"rank_change": 25,
+"server": "レムス07",
+"player": "OBiTO",
+"guild": "X么VIER",
+"power": 178838
+},
+{
+"rank": 89,
+"rank_change": 21,
+"server": "レムス07",
+"player": "Trish",
+"guild": null,
+"power": 178571
+},
+{
+"rank": 90,
+"rank_change": 2,
+"server": "レムス08",
+"player": "とりあえずまりさ",
+"guild": "RRとりギル壱",
+"power": 178528
+},
+{
+"rank": 91,
+"rank_change": 20,
+"server": "レムス03",
+"player": "Hitbox",
+"guild": "ASTRA",
+"power": 178353
+},
+{
+"rank": 92,
+"rank_change": 11,
+"server": "レムス01",
+"player": "Patrasche",
+"guild": "月影のレオ族",
+"power": 178348
+},
+{
+"rank": 93,
+"rank_change": 3,
+"server": "レムス04",
+"player": "ちゅーさ",
+"guild": null,
+"power": 177934
+},
+{
+"rank": 94,
+"rank_change": 8,
+"server": "レムス10",
+"player": "elcuatro",
+"guild": null,
+"power": 177628
+},
+{
+"rank": 95,
+"rank_change": 10,
+"server": "レムス06",
+"player": "ユヒカ",
+"guild": "RRプリキュア",
+"power": 177549
+},
+{
+"rank": 96,
+"rank_change": 12,
+"server": "レムス06",
+"player": "炎柱เคียวจูโร",
+"guild": "バディングスレイヤー",
+"power": 177529
+},
+{
+"rank": 97,
+"rank_change": 4,
+"server": "レムス04",
+"player": "たっちゃん",
+"guild": null,
+"power": 177388
+},
+{
+"rank": 98,
+"rank_change": -8,
+"server": "レムス07",
+"player": "Andante",
+"guild": null,
+"power": 177320
+},
+{
+"rank": 99,
+"rank_change": 19,
+"server": "レムス08",
+"player": "とりあえずオロチ",
+"guild": null,
+"power": 176129
+},
+{
+"rank": 100,
+"rank_change": 15,
+"server": "レムス03",
+"player": "原罪の堕天使ばじにゃん様",
+"guild": "RR防衛隊第3部隊",
+"power": 175912
+},
+{
+"rank": 101,
+"rank_change": 19,
+"server": "レムス08",
+"player": "Seah",
+"guild": "RRとりギル壱",
+"power": 175577
+},
+{
+"rank": 102,
+"rank_change": 19,
+"server": "レムス06",
+"player": "otonaaa",
+"guild": "RRプリキュア",
+"power": 175533
+},
+{
+"rank": 103,
+"rank_change": 19,
+"server": "レムス02",
+"player": "披薩揚語",
+"guild": "Farmers",
+"power": 175260
+},
+{
+"rank": 104,
+"rank_change": 8,
+"server": "レムス10",
+"player": "Doutzen",
+"guild": null,
+"power": 175198
+},
+{
+"rank": 105,
+"rank_change": 19,
+"server": "レムス10",
+"player": "Story",
+"guild": "ソロ活JP",
+"power": 175135
+},
+{
+"rank": 106,
+"rank_change": 19,
+"server": "レムス08",
+"player": "alisa",
+"guild": "RRとりギル壱",
+"power": 174863
+},
+{
+"rank": 107,
+"rank_change": 19,
+"server": "レムス08",
+"player": "とりあえずロック",
+"guild": "RRとりギル壱",
+"power": 174822
+},
+{
+"rank": 108,
+"rank_change": 20,
+"server": "レムス05",
+"player": "可能性の獣",
+"guild": "RRWB",
+"power": 174303
+},
+{
+"rank": 109,
+"rank_change": 20,
+"server": "レムス07",
+"player": "クイル",
+"guild": null,
+"power": 174275
+},
+{
+"rank": 110,
+"rank_change": 21,
+"server": "レムス05",
+"player": "さめざめ",
+"guild": "TKuredoT",
+"power": 174089
+},
+{
+"rank": 111,
+"rank_change": 12,
+"server": "レムス07",
+"player": "ザンギャ君",
+"guild": null,
+"power": 173983
+},
+{
+"rank": 112,
+"rank_change": 22,
+"server": "レムス04",
+"player": "ペルジュン",
+"guild": "はなまるしぇ",
+"power": 173962
+},
+{
+"rank": 113,
+"rank_change": 22,
+"server": "レムス09",
+"player": "gai",
+"guild": "MercenarieSs",
+"power": 173602
+},
+{
+"rank": 114,
+"rank_change": 22,
+"server": "レムス08",
+"player": "とりあえずむう",
+"guild": "RRとりギル壱",
+"power": 173464
+},
+{
+"rank": 115,
+"rank_change": 22,
+"server": "レムス06",
+"player": "聖Saintツ",
+"guild": "バディングスレイヤー",
+"power": 173260
+},
+{
+"rank": 116,
+"rank_change": 23,
+"server": "レムス06",
+"player": "でっく",
+"guild": "RRプリキュア",
+"power": 173052
+},
+{
+"rank": 117,
+"rank_change": 24,
+"server": "レムス09",
+"player": "あんみつ",
+"guild": "RR残火",
+"power": 172852
+},
+{
+"rank": 118,
+"rank_change": 12,
+"server": "レムス05",
+"player": "mio83",
+"guild": null,
+"power": 172846
+},
+{
+"rank": 119,
+"rank_change": 23,
+"server": "レムス06",
+"player": "風柱ชาเนมิ",
+"guild": "バディングスレイヤー",
+"power": 172668
+},
+{
+"rank": 120,
+"rank_change": -11,
+"server": "レムス03",
+"player": "A・ZIRK",
+"guild": "ASTRA",
+"power": 172603
+},
+{
+"rank": 121,
+"rank_change": 6,
+"server": "レムス09",
+"player": "アニモ楽しいです",
+"guild": "ゴールドキャット",
+"power": 172583
+},
+{
+"rank": 122,
+"rank_change": 11,
+"server": "レムス08",
+"player": "とりあえず蝕王の晩餐",
+"guild": null,
+"power": 172574
+},
+{
+"rank": 123,
+"rank_change": 17,
+"server": "レムス06",
+"player": "はんぞー",
+"guild": null,
+"power": 172565
+},
+{
+"rank": 124,
+"rank_change": 20,
+"server": "レムス06",
+"player": "ぶんちー",
+"guild": "RRプリキュア",
+"power": 172366
+},
+{
+"rank": 125,
+"rank_change": 13,
+"server": "レムス04",
+"player": "ちゃば",
+"guild": "MEVIUS",
+"power": 172314
+},
+{
+"rank": 126,
+"rank_change": 6,
+"server": "レムス05",
+"player": "めしくうな",
+"guild": null,
+"power": 172143
+},
+{
+"rank": 127,
+"rank_change": 19,
+"server": "レムス06",
+"player": "にとり",
+"guild": "RRプリキュア",
+"power": 172047
+},
+{
+"rank": 128,
+"rank_change": 17,
+"server": "レムス06",
+"player": "Rook",
+"guild": "RRプリキュア",
+"power": 171889
+},
+{
+"rank": 129,
+"rank_change": 18,
+"server": "レムス05",
+"player": "だいふく",
+"guild": "RRWB",
+"power": 171750
+},
+{
+"rank": 130,
+"rank_change": 18,
+"server": "レムス05",
+"player": "新さんた",
+"guild": "RRWB",
+"power": 171738
+},
+{
+"rank": 131,
+"rank_change": 112,
+"server": "レムス04",
+"player": "獅子まーる",
+"guild": "ぱるぷんて",
+"power": 171604
+},
+{
+"rank": 132,
+"rank_change": 22,
+"server": "レムス08",
+"player": "とりあえず腰痛男",
+"guild": null,
+"power": 171579
+},
+{
+"rank": 133,
+"rank_change": 29,
+"server": "レムス05",
+"player": "れくさす",
+"guild": "RRWB",
+"power": 171422
+},
+{
+"rank": 134,
+"rank_change": 16,
+"server": "レムス03",
+"player": "A・블루",
+"guild": "ASTRA",
+"power": 171317
+},
+{
+"rank": 135,
+"rank_change": 16,
+"server": "レムス01",
+"player": "ChosenX",
+"guild": null,
+"power": 171124
+},
+{
+"rank": 136,
+"rank_change": 47,
+"server": "レムス04",
+"player": "Caster",
+"guild": null,
+"power": 171010
+},
+{
+"rank": 137,
+"rank_change": 15,
+"server": "レムス08",
+"player": "Arlong",
+"guild": null,
+"power": 170708
+},
+{
+"rank": 138,
+"rank_change": 18,
+"server": "レムス06",
+"player": "BニニニニニニニニD",
+"guild": "バディングスレイヤー",
+"power": 170706
+},
+{
+"rank": 139,
+"rank_change": 16,
+"server": "レムス09",
+"player": "NiWee",
+"guild": "のびり",
+"power": 170644
+},
+{
+"rank": 140,
+"rank_change": 18,
+"server": "レムス03",
+"player": "おかさん",
+"guild": "RR防衛隊第3部隊",
+"power": 170600
+},
+{
+"rank": 141,
+"rank_change": 16,
+"server": "レムス01",
+"player": "ちいわわ",
+"guild": "RR心機一転",
+"power": 170426
+},
+{
+"rank": 142,
+"rank_change": 17,
+"server": "レムス03",
+"player": "A・卍Totik卍",
+"guild": "ASTRA",
+"power": 170334
+},
+{
+"rank": 143,
+"rank_change": 10,
+"server": "レムス04",
+"player": "反省のだるち",
+"guild": null,
+"power": 169455
+},
+{
+"rank": 144,
+"rank_change": 20,
+"server": "レムス09",
+"player": "韩信",
+"guild": "LuckyMan",
+"power": 169369
+},
+{
+"rank": 145,
+"rank_change": -93,
+"server": "レムス07",
+"player": "フェリクス",
+"guild": null,
+"power": 169147
+},
+{
+"rank": 146,
+"rank_change": 20,
+"server": "レムス02",
+"player": "Vigée",
+"guild": "Salon",
+"power": 168989
+},
+{
+"rank": 147,
+"rank_change": 28,
+"server": "レムス06",
+"player": "紫のシュマイス",
+"guild": null,
+"power": 168804
+},
+{
+"rank": 148,
+"rank_change": 19,
+"server": "レムス03",
+"player": "I0R",
+"guild": null,
+"power": 168802
+},
+{
+"rank": 149,
+"rank_change": 11,
+"server": "レムス04",
+"player": "はでまちこうへい",
+"guild": null,
+"power": 168768
+},
+{
+"rank": 150,
+"rank_change": 73,
+"server": "レムス06",
+"player": "himazin",
+"guild": null,
+"power": 168577
+},
+{
+"rank": 151,
+"rank_change": 17,
+"server": "レムス03",
+"player": "A・PT",
+"guild": "ASTRA",
+"power": 168564
+},
+{
+"rank": 152,
+"rank_change": 9,
+"server": "レムス04",
+"player": "るぅ",
+"guild": null,
+"power": 168527
+},
+{
+"rank": 153,
+"rank_change": 10,
+"server": "レムス03",
+"player": "ガウル・レイ",
+"guild": "ASTRA",
+"power": 168525
+},
+{
+"rank": 154,
+"rank_change": 16,
+"server": "レムス10",
+"player": "甘くないイタリアーノ",
+"guild": "甘くないイタリアーノ",
+"power": 168503
+}
 ]
