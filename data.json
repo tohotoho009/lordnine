@@ -1230,5 +1230,1261 @@
 "player": "甘くないイタリアーノ",
 "guild": "甘くないイタリアーノ",
 "power": 168503
+},
+{
+"rank": 155,
+"rank_change": 0,
+"server": "レムス02",
+"player": "Secretkey",
+"guild": "Luckbased",
+"power": 171075
+},
+{
+"rank": 156,
+"rank_change": 821,
+"server": "レムス09",
+"player": "MURDERER",
+"guild": null,
+"power": 171020
+},
+{
+"rank": 157,
+"rank_change": 56,
+"server": "レムス07",
+"player": "Bakal",
+"guild": null,
+"power": 170186
+},
+{
+"rank": 158,
+"rank_change": 0,
+"server": "レムス09",
+"player": "TheLoneWolf",
+"guild": null,
+"power": 168248
+},
+{
+"rank": 159,
+"rank_change": -17,
+"server": "レムス04",
+"player": "じろちゃん",
+"guild": null,
+"power": 168238
+},
+{
+"rank": 160,
+"rank_change": -16,
+"server": "レムス02",
+"player": "ソルスティス",
+"guild": null,
+"power": 168078
+},
+{
+"rank": 161,
+"rank_change": -16,
+"server": "レムス09",
+"player": "CheonHee",
+"guild": null,
+"power": 167936
+},
+{
+"rank": 162,
+"rank_change": -15,
+"server": "レムス08",
+"player": "しわす偽物っ",
+"guild": null,
+"power": 167783
+},
+{
+"rank": 163,
+"rank_change": -6,
+"server": "レムス09",
+"player": "SamSam902",
+"guild": null,
+"power": 167765
+},
+{
+"rank": 164,
+"rank_change": -18,
+"server": "レムス06",
+"player": "音柱เทนเงน",
+"guild": "しゃかいじん",
+"power": 167751
+},
+{
+"rank": 165,
+"rank_change": -16,
+"server": "レムス04",
+"player": "ひらめ",
+"guild": "ぱるぷんて",
+"power": 167493
+},
+{
+"rank": 166,
+"rank_change": -14,
+"server": "レムス09",
+"player": "Sukuna",
+"guild": null,
+"power": 167179
+},
+{
+"rank": 167,
+"rank_change": -14,
+"server": "レムス02",
+"player": "ラプター",
+"guild": null,
+"power": 167053
+},
+{
+"rank": 168,
+"rank_change": -16,
+"server": "レムス06",
+"player": "るーれっと",
+"guild": "RRプリキュア",
+"power": 167049
+},
+{
+"rank": 169,
+"rank_change": -14,
+"server": "レムス08",
+"player": "闇・SHINCHAN",
+"guild": null,
+"power": 166591
+},
+{
+"rank": 170,
+"rank_change": -24,
+"server": "レムス04",
+"player": "あきたん",
+"guild": null,
+"power": 166522
+},
+{
+"rank": 171,
+"rank_change": -18,
+"server": "レムス05",
+"player": "ヴァル閣下",
+"guild": "RRWB",
+"power": 166493
+},
+{
+"rank": 172,
+"rank_change": 0,
+"server": "レムス10",
+"player": "Vino",
+"guild": null,
+"power": 166068
+},
+{
+"rank": 173,
+"rank_change": 257,
+"server": "レムス09",
+"player": "성진우",
+"guild": null,
+"power": 165979
+},
+{
+"rank": 174,
+"rank_change": -19,
+"server": "レムス06",
+"player": "Dark",
+"guild": null,
+"power": 165767
+},
+{
+"rank": 175,
+"rank_change": 0,
+"server": "レムス07",
+"player": "SANTIGWA尺",
+"guild": null,
+"power": 165733
+},
+{
+"rank": 176,
+"rank_change": -20,
+"server": "レムス06",
+"player": "MegabenZ",
+"guild": "バディングスレイヤー",
+"power": 165700
+},
+{
+"rank": 177,
+"rank_change": -20,
+"server": "レムス08",
+"player": "るな",
+"guild": "RRとりギル壱",
+"power": 165694
+},
+{
+"rank": 178,
+"rank_change": -24,
+"server": "レムス06",
+"player": "asapii",
+"guild": null,
+"power": 165595
+},
+{
+"rank": 179,
+"rank_change": -21,
+"server": "レムス09",
+"player": "たかまる",
+"guild": "RR残火",
+"power": 165493
+},
+{
+"rank": 180,
+"rank_change": -20,
+"server": "レムス08",
+"player": "Wombat",
+"guild": "LoneWolf",
+"power": 165133
+},
+{
+"rank": 181,
+"rank_change": -22,
+"server": "レムス07",
+"player": "ガボチャ",
+"guild": null,
+"power": 164921
+},
+{
+"rank": 182,
+"rank_change": -21,
+"server": "レムス08",
+"player": "เฟิดเฟ",
+"guild": "HEARTRATE",
+"power": 164867
+},
+{
+"rank": 183,
+"rank_change": -13,
+"server": "レムス01",
+"player": "ジェノ",
+"guild": "RR心機一転",
+"power": 164839
+},
+{
+"rank": 184,
+"rank_change": 0,
+"server": "レムス09",
+"player": "Karding",
+"guild": null,
+"power": 164713
+},
+{
+"rank": 185,
+"rank_change": -24,
+"server": "レムス01",
+"player": "れーか",
+"guild": null,
+"power": 164694
+},
+{
+"rank": 186,
+"rank_change": -24,
+"server": "レムス08",
+"player": "とりあえずアマ",
+"guild": "RRとりギル壱",
+"power": 164611
+},
+{
+"rank": 187,
+"rank_change": -23,
+"server": "レムス05",
+"player": "Taker3",
+"guild": "猫の国",
+"power": 164472
+},
+{
+"rank": 188,
+"rank_change": -25,
+"server": "レムス08",
+"player": "うおうおフィッシュ",
+"guild": null,
+"power": 164298
+},
+{
+"rank": 189,
+"rank_change": -22,
+"server": "レムス06",
+"player": "xeesoxee",
+"guild": "バディングスレイヤー",
+"power": 164226
+},
+{
+"rank": 190,
+"rank_change": -22,
+"server": "レムス06",
+"player": "なおTea",
+"guild": "RRプリキュア",
+"power": 164074
+},
+{
+"rank": 191,
+"rank_change": 114,
+"server": "レムス04",
+"player": "POSSESSION",
+"guild": null,
+"power": 163982
+},
+{
+"rank": 192,
+"rank_change": -27,
+"server": "レムス06",
+"player": "Mantis",
+"guild": "バディングスレイヤー",
+"power": 163821
+},
+{
+"rank": 193,
+"rank_change": -27,
+"server": "レムス04",
+"player": "Tkun",
+"guild": null,
+"power": 163818
+},
+{
+"rank": 194,
+"rank_change": -24,
+"server": "レムス04",
+"player": "しるむ",
+"guild": null,
+"power": 163610
+},
+{
+"rank": 195,
+"rank_change": -24,
+"server": "レムス02",
+"player": "Hisyo",
+"guild": "Crescendo",
+"power": 163442
+},
+{
+"rank": 196,
+"rank_change": -10,
+"server": "レムス05",
+"player": "激辛えびチリ",
+"guild": "RRWB",
+"power": 163268
+},
+{
+"rank": 197,
+"rank_change": -25,
+"server": "レムス04",
+"player": "那由他",
+"guild": "ジオン公国",
+"power": 163182
+},
+{
+"rank": 198,
+"rank_change": -21,
+"server": "レムス03",
+"player": "逃亡者ss",
+"guild": "RR防衛隊第3部隊",
+"power": 163141
+},
+{
+"rank": 199,
+"rank_change": 0,
+"server": "レムス10",
+"player": "王子Aaron",
+"guild": null,
+"power": 162852
+},
+{
+"rank": 200,
+"rank_change": -22,
+"server": "レムス10",
+"player": "ごくちょー",
+"guild": "RRCanopus",
+"power": 162686
+},
+{
+"rank": 201,
+"rank_change": -25,
+"server": "レムス08",
+"player": "しらす",
+"guild": null,
+"power": 162637
+},
+{
+"rank": 202,
+"rank_change": 120,
+"server": "レムス07",
+"player": "neochi",
+"guild": null,
+"power": 162548
+},
+{
+"rank": 203,
+"rank_change": -30,
+"server": "レムス08",
+"player": "เทวดา",
+"guild": "HEARTRATE",
+"power": 162486
+},
+{
+"rank": 204,
+"rank_change": 0,
+"server": "レムス09",
+"player": "AkazA",
+"guild": null,
+"power": 162254
+},
+{
+"rank": 205,
+"rank_change": -26,
+"server": "レムス09",
+"player": "Aniki",
+"guild": null,
+"power": 162048
+},
+{
+"rank": 206,
+"rank_change": -26,
+"server": "レムス09",
+"player": "えるさ",
+"guild": "RR残火",
+"power": 161796
+},
+{
+"rank": 207,
+"rank_change": -26,
+"server": "レムス03",
+"player": "SajieGPDS",
+"guild": "GPDS",
+"power": 161757
+},
+{
+"rank": 208,
+"rank_change": -33,
+"server": "レムス07",
+"player": "KaiRi",
+"guild": null,
+"power": 161613
+},
+{
+"rank": 209,
+"rank_change": -27,
+"server": "レムス08",
+"player": "Marquee",
+"guild": "MC丶Pärädisø",
+"power": 161505
+},
+{
+"rank": 210,
+"rank_change": 0,
+"server": "レムス07",
+"player": "Mch",
+"guild": null,
+"power": 161400
+},
+{
+"rank": 211,
+"rank_change": 0,
+"server": "レムス09",
+"player": "イレJinxスト",
+"guild": null,
+"power": 161328
+},
+{
+"rank": 212,
+"rank_change": 0,
+"server": "レムス09",
+"player": "Nevaeh",
+"guild": null,
+"power": 161212
+},
+{
+"rank": 213,
+"rank_change": 0,
+"server": "レムス10",
+"player": "Pakzbomba",
+"guild": null,
+"power": 161210
+},
+{
+"rank": 214,
+"rank_change": -30,
+"server": "レムス07",
+"player": "JADAIツ",
+"guild": "X么VIER",
+"power": 161135
+},
+{
+"rank": 215,
+"rank_change": -32,
+"server": "レムス08",
+"player": "とりあえずpyon95",
+"guild": "RRとりギル壱",
+"power": 161076
+},
+{
+"rank": 216,
+"rank_change": -42,
+"server": "レムス04",
+"player": "Vpr02",
+"guild": null,
+"power": 160403
+},
+{
+"rank": 217,
+"rank_change": -28,
+"server": "レムス08",
+"player": "とりあえずよん",
+"guild": "RRとりギル壱",
+"power": 160362
+},
+{
+"rank": 218,
+"rank_change": -31,
+"server": "レムス07",
+"player": "Hayate",
+"guild": null,
+"power": 160145
+},
+{
+"rank": 219,
+"rank_change": -31,
+"server": "レムス06",
+"player": "yoggy",
+"guild": "RRプリキュア",
+"power": 160090
+},
+{
+"rank": 220,
+"rank_change": -75,
+"server": "レムス06",
+"player": "shu",
+"guild": "RRぷりきゅあ",
+"power": 160045
+},
+{
+"rank": 221,
+"rank_change": -31,
+"server": "レムス07",
+"player": "×Kento",
+"guild": "ALASJUICY",
+"power": 159978
+},
+{
+"rank": 222,
+"rank_change": -86,
+"server": "レムス08",
+"player": "ROX",
+"guild": null,
+"power": 159915
+},
+{
+"rank": 223,
+"rank_change": -32,
+"server": "レムス01",
+"player": "BBLUE",
+"guild": "RR心機一転",
+"power": 159612
+},
+{
+"rank": 224,
+"rank_change": -31,
+"server": "レムス09",
+"player": "Aname",
+"guild": null,
+"power": 159082
+},
+{
+"rank": 225,
+"rank_change": -33,
+"server": "レムス10",
+"player": "Liar",
+"guild": "ぺんぺん",
+"power": 159029
+},
+{
+"rank": 226,
+"rank_change": -32,
+"server": "レムス06",
+"player": "Larina",
+"guild": "バディングスレイヤー",
+"power": 158877
+},
+{
+"rank": 227,
+"rank_change": -31,
+"server": "レムス07",
+"player": "Bauer",
+"guild": "X么VIER",
+"power": 158864
+},
+{
+"rank": 228,
+"rank_change": -33,
+"server": "レムス08",
+"player": "とりあえずせるびー",
+"guild": "RRとりギル壱",
+"power": 158780
+},
+{
+"rank": 229,
+"rank_change": -32,
+"server": "レムス03",
+"player": "ぼんぢり",
+"guild": "RR防衛隊第3部隊",
+"power": 158697
+},
+{
+"rank": 230,
+"rank_change": -31,
+"server": "レムス04",
+"player": "Chizuru",
+"guild": null,
+"power": 158592
+},
+{
+"rank": 231,
+"rank_change": -23,
+"server": "レムス06",
+"player": "べにまる",
+"guild": null,
+"power": 158541
+},
+{
+"rank": 232,
+"rank_change": -32,
+"server": "レムス04",
+"player": "はなまるtwich",
+"guild": "はなまるしぇ",
+"power": 158482
+},
+{
+"rank": 233,
+"rank_change": -31,
+"server": "レムス07",
+"player": "Mado",
+"guild": null,
+"power": 158160
+},
+{
+"rank": 234,
+"rank_change": -31,
+"server": "レムス10",
+"player": "yattun",
+"guild": "RRCanopus",
+"power": 158090
+},
+{
+"rank": 235,
+"rank_change": -31,
+"server": "レムス04",
+"player": "Nameless",
+"guild": null,
+"power": 158055
+},
+{
+"rank": 236,
+"rank_change": 0,
+"server": "レムス07",
+"player": "乂RedFlag乂",
+"guild": null,
+"power": 157900
+},
+{
+"rank": 237,
+"rank_change": -32,
+"server": "レムス05",
+"player": "うにゅら",
+"guild": null,
+"power": 157863
+},
+{
+"rank": 238,
+"rank_change": -31,
+"server": "レムス02",
+"player": "無二斎",
+"guild": "BONSAI",
+"power": 157649
+},
+{
+"rank": 239,
+"rank_change": 0,
+"server": "レムス09",
+"player": "Menou",
+"guild": null,
+"power": 157547
+},
+{
+"rank": 240,
+"rank_change": -12,
+"server": "レムス07",
+"player": "薩摩隼人",
+"guild": null,
+"power": 157516
+},
+{
+"rank": 241,
+"rank_change": -32,
+"server": "レムス06",
+"player": "ป้อคิงหยัง",
+"guild": "しゃかいじん",
+"power": 157448
+},
+{
+"rank": 242,
+"rank_change": -31,
+"server": "レムス07",
+"player": "feedpack",
+"guild": null,
+"power": 157364
+},
+{
+"rank": 243,
+"rank_change": -33,
+"server": "レムス04",
+"player": "アルメイダ",
+"guild": "MEVIUS",
+"power": 157300
+},
+{
+"rank": 244,
+"rank_change": -26,
+"server": "レムス04",
+"player": "御嬢",
+"guild": "はなまるしぇ",
+"power": 157275
+},
+{
+"rank": 245,
+"rank_change": -31,
+"server": "レムス07",
+"player": "Zenithiel",
+"guild": null,
+"power": 157215
+},
+{
+"rank": 246,
+"rank_change": -33,
+"server": "レムス02",
+"player": "アレックス・ガルシア",
+"guild": "Money",
+"power": 157175
+},
+{
+"rank": 247,
+"rank_change": -32,
+"server": "レムス01",
+"player": "伝説の一味唐辛子",
+"guild": "RR修羅道",
+"power": 156998
+},
+{
+"rank": 248,
+"rank_change": -32,
+"server": "レムス07",
+"player": "SØezツ",
+"guild": "ALASJUICY",
+"power": 156984
+},
+{
+"rank": 249,
+"rank_change": -13,
+"server": "レムス06",
+"player": "Gingin",
+"guild": "RRプリキュア",
+"power": 156964
+},
+{
+"rank": 250,
+"rank_change": -33,
+"server": "レムス07",
+"player": "unka",
+"guild": null,
+"power": 156803
+},
+{
+"rank": 251,
+"rank_change": -32,
+"server": "レムス06",
+"player": "ちくわパン",
+"guild": "RRプリキュア",
+"power": 156195
+},
+{
+"rank": 252,
+"rank_change": -30,
+"server": "レムス02",
+"player": "Orsay",
+"guild": "Musée",
+"power": 155959
+},
+{
+"rank": 253,
+"rank_change": -32,
+"server": "レムス10",
+"player": "AkariMinase",
+"guild": null,
+"power": 155807
+},
+{
+"rank": 254,
+"rank_change": -21,
+"server": "レムス05",
+"player": "ふぇりあ",
+"guild": "RRWB",
+"power": 155672
+},
+{
+"rank": 255,
+"rank_change": -32,
+"server": "レムス06",
+"player": "Sirius",
+"guild": "バディングスレイヤー",
+"power": 155556
+},
+{
+"rank": 256,
+"rank_change": -32,
+"server": "レムス10",
+"player": "隠居じじい",
+"guild": null,
+"power": 155544
+},
+{
+"rank": 257,
+"rank_change": 0,
+"server": "レムス09",
+"player": "モ尺モTH",
+"guild": null,
+"power": 155418
+},
+{
+"rank": 258,
+"rank_change": -33,
+"server": "レムス06",
+"player": "Chibsツ",
+"guild": "バディングスレイヤー",
+"power": 155249
+},
+{
+"rank": 259,
+"rank_change": -33,
+"server": "レムス06",
+"player": "Warlock",
+"guild": "バディングスレイヤー",
+"power": 155201
+},
+{
+"rank": 260,
+"rank_change": -41,
+"server": "レムス03",
+"player": "A・K2113",
+"guild": "ASTRA",
+"power": 155183
+},
+{
+"rank": 261,
+"rank_change": -30,
+"server": "レムス04",
+"player": "ササライ",
+"guild": null,
+"power": 155132
+},
+{
+"rank": 262,
+"rank_change": 33,
+"server": "レムス02",
+"player": "龍神",
+"guild": "PVEだけ",
+"power": 155111
+},
+{
+"rank": 263,
+"rank_change": 72,
+"server": "レムス10",
+"player": "APOCMAN",
+"guild": null,
+"power": 154922
+},
+{
+"rank": 264,
+"rank_change": -36,
+"server": "レムス01",
+"player": "KAMIKAZE",
+"guild": "RR修羅道",
+"power": 154917
+},
+{
+"rank": 265,
+"rank_change": -36,
+"server": "レムス07",
+"player": "Ecarlate",
+"guild": null,
+"power": 154885
+},
+{
+"rank": 266,
+"rank_change": -36,
+"server": "レムス04",
+"player": "タスク",
+"guild": "PAOPAO",
+"power": 154778
+},
+{
+"rank": 267,
+"rank_change": -31,
+"server": "レムス07",
+"player": "ClaudDine08",
+"guild": null,
+"power": 154339
+},
+{
+"rank": 268,
+"rank_change": -36,
+"server": "レムス08",
+"player": "VaporX",
+"guild": "Zarriors",
+"power": 154304
+},
+{
+"rank": 269,
+"rank_change": -36,
+"server": "レムス05",
+"player": "syan",
+"guild": "猫の国",
+"power": 154161
+},
+{
+"rank": 270,
+"rank_change": -34,
+"server": "レムス08",
+"player": "Passive",
+"guild": null,
+"power": 153843
+},
+{
+"rank": 271,
+"rank_change": -34,
+"server": "レムス07",
+"player": "ojnaV",
+"guild": "ALASJUICY",
+"power": 153650
+},
+{
+"rank": 272,
+"rank_change": -34,
+"server": "レムス08",
+"player": "eneen",
+"guild": "幺K幺TSUKi",
+"power": 153536
+},
+{
+"rank": 273,
+"rank_change": -34,
+"server": "レムス04",
+"player": "ふー二郎",
+"guild": "PAOPAO",
+"power": 153528
+},
+{
+"rank": 274,
+"rank_change": -34,
+"server": "レムス04",
+"player": "SunGodNika",
+"guild": "ぱるぷんて",
+"power": 153504
+},
+{
+"rank": 275,
+"rank_change": -18,
+"server": "レムス08",
+"player": "SHIWASU",
+"guild": null,
+"power": 153492
+},
+{
+"rank": 276,
+"rank_change": -35,
+"server": "レムス07",
+"player": "Keenan",
+"guild": null,
+"power": 153468
+},
+{
+"rank": 277,
+"rank_change": -35,
+"server": "レムス02",
+"player": "킬러",
+"guild": "킬러들의모임",
+"power": 153449
+},
+{
+"rank": 278,
+"rank_change": -35,
+"server": "レムス05",
+"player": "RAZEN",
+"guild": "RRWB",
+"power": 153371
+},
+{
+"rank": 279,
+"rank_change": -34,
+"server": "レムス08",
+"player": "YGい",
+"guild": "Taozhu",
+"power": 153328
+},
+{
+"rank": 280,
+"rank_change": -34,
+"server": "レムス09",
+"player": "Notte",
+"guild": "はなまる小学校",
+"power": 153287
+},
+{
+"rank": 281,
+"rank_change": -32,
+"server": "レムス07",
+"player": "Moshi乂Ikki",
+"guild": null,
+"power": 153266
+},
+{
+"rank": 282,
+"rank_change": -35,
+"server": "レムス06",
+"player": "ニャンコ",
+"guild": "サイコパスの集",
+"power": 153252
+},
+{
+"rank": 283,
+"rank_change": -35,
+"server": "レムス09",
+"player": "Posa",
+"guild": "ぽさ",
+"power": 153237
+},
+{
+"rank": 284,
+"rank_change": 0,
+"server": "レムス10",
+"player": "糖Sucre",
+"guild": null,
+"power": 153180
+},
+{
+"rank": 285,
+"rank_change": -35,
+"server": "レムス09",
+"player": "セクシーHisoka",
+"guild": "SHICHIBUKAI",
+"power": 153064
+},
+{
+"rank": 286,
+"rank_change": -35,
+"server": "レムス05",
+"player": "痛風で足痛い",
+"guild": null,
+"power": 153051
+},
+{
+"rank": 287,
+"rank_change": -34,
+"server": "レムス08",
+"player": "アサシン",
+"guild": null,
+"power": 153047
+},
+{
+"rank": 288,
+"rank_change": -36,
+"server": "レムス10",
+"player": "さくたろ",
+"guild": "RRCanopus",
+"power": 152908
+},
+{
+"rank": 289,
+"rank_change": -14,
+"server": "レムス10",
+"player": "JanneDaArc",
+"guild": "RRCanopus",
+"power": 152782
+},
+{
+"rank": 290,
+"rank_change": -36,
+"server": "レムス01",
+"player": "王騎",
+"guild": "RR心機一転",
+"power": 152722
+},
+{
+"rank": 291,
+"rank_change": -36,
+"server": "レムス05",
+"player": "あずず",
+"guild": null,
+"power": 152706
+},
+{
+"rank": 292,
+"rank_change": -36,
+"server": "レムス03",
+"player": "まむん",
+"guild": "RR防衛隊第3部隊",
+"power": 152356
+},
+{
+"rank": 293,
+"rank_change": -35,
+"server": "レムス09",
+"player": "Dのひと",
+"guild": "ゴールドキャット",
+"power": 152313
+},
+{
+"rank": 294,
+"rank_change": -35,
+"server": "レムス06",
+"player": "卧槽尼玛哟",
+"guild": null,
+"power": 152267
+},
+{
+"rank": 295,
+"rank_change": -35,
+"server": "レムス05",
+"player": "パピッペッペ",
+"guild": "RRWB",
+"power": 152056
+},
+{
+"rank": 296,
+"rank_change": -36,
+"server": "レムス02",
+"player": "織田信長",
+"guild": "BONSAI",
+"power": 151961
+},
+{
+"rank": 297,
+"rank_change": -35,
+"server": "レムス09",
+"player": "iLLeSTMoreno",
+"guild": null,
+"power": 151670
+},
+{
+"rank": 298,
+"rank_change": -19,
+"server": "レムス10",
+"player": "kiyay",
+"guild": "ぺんぺん",
+"power": 151616
+},
+{
+"rank": 299,
+"rank_change": -38,
+"server": "レムス07",
+"player": "ねむなめ",
+"guild": null,
+"power": 151372
+},
+{
+"rank": 300,
+"rank_change": -57,
+"server": "レムス06",
+"player": "Pumpkn",
+"guild": "バディングスレイヤー",
+"power": 151191
+},
+{
+"rank": 301,
+"rank_change": -35,
+"server": "レムス04",
+"player": "FENDI",
+"guild": null,
+"power": 151107
+},
+{
+"rank": 302,
+"rank_change": -37,
+"server": "レムス10",
+"player": "ぐうどさま",
+"guild": "RRCanopus",
+"power": 151003
+},
+{
+"rank": 303,
+"rank_change": -36,
+"server": "レムス07",
+"player": "wUz",
+"guild": "ALASJUICY",
+"power": 150826
+},
+{
+"rank": 304,
+"rank_change": -35,
+"server": "レムス01",
+"player": "AKIKAN",
+"guild": "RR心機一転",
+"power": 150696
+},
+{
+"rank": 305,
+"rank_change": -35,
+"server": "レムス07",
+"player": "MoSpII",
+"guild": null,
+"power": 150626
+},
+{
+"rank": 306,
+"rank_change": -38,
+"server": "レムス07",
+"player": "逆仙王林",
+"guild": null,
+"power": 150542
+},
+{
+"rank": 307,
+"rank_change": -36,
+"server": "レムス03",
+"player": "aiko28",
+"guild": null,
+"power": 150328
+},
+{
+"rank": 308,
+"rank_change": -36,
+"server": "レムス08",
+"player": "nobiri",
+"guild": "plumeria",
+"power": 150275
+},
+{
+"rank": 309,
+"rank_change": -36,
+"server": "レムス08",
+"player": "にゃんかもー",
+"guild": "RRとりギル壱",
+"power": 150251
+},
+{
+"rank": 310,
+"rank_change": -35,
+"server": "レムス04",
+"player": "りゅきくん",
+"guild": null,
+"power": 150140
+},
+{
+"rank": 311,
+"rank_change": -35,
+"server": "レムス01",
+"player": "Tofu",
+"guild": "FREE",
+"power": 150097
 }
 ]
